@@ -10,7 +10,9 @@ const App = () => {
 
   const search = (term) => {
     console.log(`${term} was searched`);
+    //use axios and post
   }
+  //
 
   return (
     <div>

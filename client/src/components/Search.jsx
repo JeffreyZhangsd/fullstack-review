@@ -11,7 +11,7 @@ const Search = ({ onSearch }) => {
   const search = () => {
     onSearch(term);
   }
-
+//apparently there's a bug here
   return (
     <div>
       <h4>Add more repos!</h4>
